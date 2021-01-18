@@ -2,6 +2,10 @@
 
 Fausse boutique WP avec Woocommerce (exercice réalisé dans le cadre de ma formation chez Simplon.co)
 
+Pluggins installés :
+* GTranslate
+* Yoast SEO
+* GDPR Cookie Consent
 
 ## Pré-requis
 * Wamp server

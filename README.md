@@ -2,8 +2,6 @@
 
 Fausse boutique WP avec Woocommerce (exercice réalisé dans le cadre de ma formation chez Simplon.co)
 
-## Pour commencer
-Entrez ici les instructions pour bien débuter avec votre projet...
 
 ## Pré-requis
 * Wamp server

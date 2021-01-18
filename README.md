@@ -33,5 +33,5 @@ Comment installer WampServer sur Windows ?
 
 # Démarrage
 **. Démarrez WAMP
-.. Positionnez vous sur http://localhost/wordpresslap via un navigateur.
+.. Positionnez vous sur localhost/NomDuDossierWP via un navigateur.
 ... C'est parti !**

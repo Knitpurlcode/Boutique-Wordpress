@@ -2,14 +2,14 @@
 
 Fausse boutique WP avec Woocommerce (exercice réalisé dans le cadre de ma formation chez Simplon.co)
 
-# Pour commencer
+## Pour commencer
 Entrez ici les instructions pour bien débuter avec votre projet...
 
-Pré-requis
+## Pré-requis
 * Wamp server
 * Wordpress
 
-# Installation
+## Installation
 Comment installer WampServer sur Windows ?
 1. vérifiez la version de votre système sur votre PC : 32 ou 64 bits ;
 2. Téléchargez WampServer 32 ou 64 bits ;
@@ -31,7 +31,7 @@ Comment installer WampServer sur Windows ?
     Renseignez le nom de la base de donnée (créée dans l'onglet phpMyAdmin), le nom de l'utilisateur *root*, pas de mot de passe, ni d'adresse pour la base de données (ou insérez localhost). 
     Suivez les instructions de WP jusqu'à avoir accès à l'espace admin.
 
-# Démarrage
+## Démarrage
 **. Démarrez WAMP
 .. Positionnez vous sur localhost/NomDuDossierWP via un navigateur.
 ... C'est parti !**

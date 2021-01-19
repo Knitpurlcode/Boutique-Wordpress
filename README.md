@@ -34,6 +34,6 @@ Comment installer WampServer sur Windows ?
     Suivez les instructions de WP jusqu'à avoir accès à l'espace admin.
 
 ## Démarrage
-**. Démarrez WAMP
-.. Positionnez vous sur localhost/NomDuDossierWP via un navigateur.
-... C'est parti !**
+* Démarrez WAMP
+* Positionnez vous sur localhost/NomDuDossierWP via un navigateur.
+* C'est parti !
